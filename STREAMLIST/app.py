@@ -27,7 +27,7 @@ data = load_data()
 data_complete = data.loc[data["time_delta_with_previous_rental_in_minutes"].notna(),:]
 
 ### Setting personalised palette
-purples = ['#F6E5F5', '#CA6EC3', '#C04FB8', '#B01AA7', '#8D1586', '#5F1159']
+purples = ['#F6E5F5', '#8D1586', '#0F0429', '#B01AA7', '#8D1586', '#0068c9']
 pio.templates["purples"] = go.layout.Template(
     layout = {
         'title':
