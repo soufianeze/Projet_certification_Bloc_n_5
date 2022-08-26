@@ -1,6 +1,5 @@
 # Projet_certification_Bloc_n_5
 
-https://share.vidyard.com/watch/Mqd18MmUiKdv5TWGKG4m7v?
 
 DASHBOARD : https://soufianeze-streamlist-app-1bs2vi.streamlitapp.com/
 
